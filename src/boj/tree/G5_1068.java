@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class G5_1065 {
+public class G5_1068 {
     public static int n;            // 노드의 개수
     public static int[] input;      // 입력값 저장 배열
     public static int removeNode;   // 삭제할 노드
