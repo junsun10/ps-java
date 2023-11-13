@@ -1,3 +1,6 @@
+// 홀수 ( 정답 )
+// 알고리즘: 수학
+
 package boj.math;
 
 import java.io.*;
