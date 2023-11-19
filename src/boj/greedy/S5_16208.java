@@ -1,7 +1,7 @@
 // 귀찮음 ( 정답 )
 // 알고리즘: 그리디
 
-package boj;
+package boj.greedy;
 
 import java.io.*;
 import java.util.*;
