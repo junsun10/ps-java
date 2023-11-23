@@ -31,23 +31,23 @@ public class S4_2003 {
     }
 
     static void solution() {
-        int answer = 0;
-        int sum = arr[0];
-        int left = 0, right = 0;
+        int answer = 0;             // 합이 m인 횟수
+        int sum = arr[0];           // 누적 합
+        int left = 0, right = 0;    // 왼쪽, 오른쪽 인덱스
 
         while (true) {
-            if (sum == m) {
+            if (sum == m) {         // 정답 조건
                 answer += 1;
                 sum -= arr[left];
                 left += 1;
             }
-            else if (sum > m) {
+            else if (sum > m) {     // m보다 크면 왼쪽 줄임
                 sum -= arr[left];
                 left += 1;
             }
-            else {
+            else {                  // m보다 작으면 오른쪽 늘림
                 right += 1;
-                if (right == n) {
+                if (right == n) {   // 마지막까지 확인하면 종료
                     break;
                 }
                 sum += arr[right];
