@@ -2,7 +2,7 @@
 // 알고리즘: 문자열, 집합
 // 집합을 사용하여 중복 제거
 
-package boj.hash_set;
+package boj.hash;
 
 import java.io.*;
 import java.util.*;

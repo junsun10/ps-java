@@ -1,7 +1,7 @@
 // 카드 ( 정답 )
 // 알고리즘: 맵
 
-package boj.hash_set;
+package boj.hash;
 
 import java.io.*;
 import java.util.*;

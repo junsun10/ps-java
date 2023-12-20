@@ -1,7 +1,7 @@
 // 베스트셀러 ( 정답 )
 // 알고리즘: 맵, 문자열
 
-package boj.hash_set;
+package boj.hash;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

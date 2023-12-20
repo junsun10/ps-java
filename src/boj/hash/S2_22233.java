@@ -2,7 +2,7 @@
 // 알고리즘: 맵, 문자열
 // 키워드들을 맵에 저장해 검색하는 시간을 줄임
 
-package boj.hash_set;
+package boj.hash;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
