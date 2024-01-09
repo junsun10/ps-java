@@ -1,7 +1,7 @@
 // DNA ( 정답 )
-// 알고리즘: 문자열, 그리, 브루트포스
+// 알고리즘: 문자열, 그리디, 브루트포스
 
-package boj;
+package boj.greedy;
 
 import java.io.*;
 import java.util.*;
