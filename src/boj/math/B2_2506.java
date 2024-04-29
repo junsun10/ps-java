@@ -1,7 +1,7 @@
 // 점수계산 ( 정답 )
 // 알고리즘: 수학
 
-package boj;
+package boj.math;
 
 import java.io.*;
 import java.util.*;
